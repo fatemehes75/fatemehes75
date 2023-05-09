@@ -29,7 +29,6 @@
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-3152A0?style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/PySpark-FD3A5C?style=for-the-badge)
 
 ##### Backend
