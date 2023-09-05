@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/fatemehes75?label=Follow&style=social)](https://github.com/fatemehes75)
 
 
--  I am graduated from Concordia University with M.Sc. degree in Computer Engineering. 
+-  I graduated from Concordia University with master's degree in Computer Engineering. 
 -  My research interests are machine learning, deep learning and data Analysis. 
 
 
